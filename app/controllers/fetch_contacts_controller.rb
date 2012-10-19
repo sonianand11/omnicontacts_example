@@ -1,0 +1,2 @@
+class FetchContactsController < ApplicationController
+end
