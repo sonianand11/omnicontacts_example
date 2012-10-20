@@ -5,9 +5,9 @@
 <a href="/contacts/hotmail">HotMail</a>
 
 <% if !@contacts.nil?%>
-<% @contacts.each do |c|%>
-<ul>
-	<li><%= c[:name]%> : 	<%= c[:email]%></li>
-</ul>	
-<%end%>
+	<% @contacts.each do |c|%>
+	<ul>
+		<li><%= c[:name]%> : 	<%= c[:email]%></li>
+	</ul>	
+	<%end%>
 <%end%>
