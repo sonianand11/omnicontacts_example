@@ -2,6 +2,8 @@ omnicontacts_example
 ====================
 This example shows you how to get the contact list from gmail, yahoo and hotmail.
 
+This repository is featured on Gem's README.
+https://github.com/Diego81/omnicontacts#example-application
 
 Create an application :
 
